@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>글로벌리더십학부</item>
+        <item>국제어문학부</item>
+        <item>경영경제학부</item>
+        <item>법학부</item>
+        <item>언론정보문화학부</item>
+        <item>공간환경시스템공학부</item>
+        <item>기계제어공학부</item>
+        <item>콘텐츠융합디자인학부</item>
+        <item>생명과학부</item>
+        <item>전산전자공학부</item>
+        <item>상담심리사회복지학부</item>
+        <item>ICT창업학부</item>
+        <item>창의융합교육원</item>
+    </string-array>
+</resources>
